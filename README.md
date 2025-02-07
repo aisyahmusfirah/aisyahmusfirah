@@ -10,7 +10,7 @@ I'm a **Data Science student** at **Institut Teknologi Sumatera (ITERA)**, passi
 Check out my repositories to see what I’ve been working on!  
 
 ## 🌱 Always Learning  
-I'm always open to collaboration and discussions on data science, AI, and coding. Feel free to connect with me!  
+I'm always open to collaboration and discussions on data science, AI, and coding. Feel free to connect with me!  [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
 
 ---
 Stay curious and keep coding! 🚀
